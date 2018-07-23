@@ -1,0 +1,30 @@
+# Distributions
+*.ear
+*.rpm
+*.zip
+*.war
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+.tern-project
+.externalToolBuilders
+.metadata/
+.recommenders/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+
+# Linux
+.directory
+
+#Thumbnails
+ehthumbs.db
+Thumbs.db
